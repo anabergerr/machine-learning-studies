@@ -101,5 +101,8 @@ A ideia é que, ao analisar os dados, podemos usar o PIB per capita para prever 
 
 
 
+### conclusao 
+
+A linha no gráfico é chamada de linha de regressão. Ela é usada para mostrar a tendência geral dos dados. Neste caso, a linha de regressão mostra que, em geral, à medida que o PIB per capita aumenta, a satisfação com a vida também aumenta.
 
 tchauuu ateh o prox capitulo 🚕
