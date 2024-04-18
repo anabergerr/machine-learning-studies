@@ -1,4 +1,4 @@
-# Vem cá pra eu te explicar tudo que tá rolando nesse código  😄 😆 😊 😃 ☺️ 😏 
+# Vem cá pra eu te explicar tudo que tá rolando nesse código  😄 😆 😊 😃 ☺️ 
 
 As primeiras 4 linhas são de importações.
 
