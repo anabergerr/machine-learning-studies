@@ -8,7 +8,7 @@ Estou lendo esse livro aqui oh >>> [link](https://www.amazon.com.br/M%C3%A3os-ob
 
 ## Em cada branch um capítulo 😪
 
-Os capítulos estão organizados por branch, então caso queira acessar o código e a explicação é só clicar na branch do capítulo-1, por exemplo.
+Os códigos estão organizados por branch, então caso queira acessar o código e a explicação é só clicar na branch do capítulo-1, por exemplo.
 
 
 Se tiver qualquer dúvida me avisa, ta?
